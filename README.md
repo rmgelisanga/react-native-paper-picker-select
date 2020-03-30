@@ -21,7 +21,7 @@ For either platform, you can alternatively pass down a child element of your cho
 
 ### Installing
 
-`npm install react-native-picker-select`
+`npm install react-native-paper-picker-select`
 
 ### Basic Usage
 
